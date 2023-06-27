@@ -1,0 +1,32 @@
+{
+  "singers": [
+    {
+      "name": "周杰伦",
+      "pic" : "https://img1.baidu.com/it/u=3046768431,2116713797&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667",
+      "other_name": "jay",
+      "id" : "1",
+      "singer_id": "4558"
+    },
+    {
+      "name": "许嵩",
+      "pic" : "https://img2.baidu.com/it/u=3299460032,26880564&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=673",
+      "other_name": "vae",
+      "id" : "2",
+      "singer_id": "4559"
+    },
+    {
+      "name": "邓紫棋",
+      "pic" : "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fc39d4636-cf90-460d-b25d-d004cd104f43%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1690439724&t=4275b6786a55a107ea48543e6a5c70e5",
+      "other_name": "未知",
+      "id" : "3",
+      "singer_id": "4560"
+    },
+    {
+      "name": "薛之谦",
+      "pic" : "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fad0e0b49-9bd9-4b68-9abe-d3a67f924624%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1690439788&t=b4c9205cd52e8bca7fcdc7761c60fa78",
+      "other_name": "未知",
+      "id" : "4",
+      "singer_id": "4561"
+    }
+  ]
+}
