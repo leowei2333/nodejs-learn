@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>添加账单</title>
+</head>
+<body>
+  <h1>添加账单</h1>
+  <hr>
+  <form action="/book" method="post">
+    <div>
+      <label for="item">事项</label>
+      <input name="title" type="text">
+    </div>
+    <div>
+      <label for="time">时间</label>
+      <input name="time" type="text">
+    </div>
+    <div>
+      <label for="type">类型</label>
+      <select name="type">
+        <option value="1">收入</option>
+        <option value="2">支出</option>
+      </select>
+    </div>
+    <div>
+      <label for="account">金额</label>
+      <input name="account" type="text">
+    </div>
+    <div>
+      <label for="remark">备注</label>
+      <textarea name="remark" id="" cols="30" rows="10"></textarea>
+    </div>
+    <hr>
+    <button type="submit">提交</button>
+  </form>
+</body>
+</html>
