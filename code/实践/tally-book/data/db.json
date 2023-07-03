@@ -1,20 +1,20 @@
 {
   "accounts": [
     {
+      "id": "c2apE6kPu",
+      "title": "喝酒",
+      "time": "2023/7/3",
+      "type": "2",
+      "account": "100",
+      "remark": "闲来没事喝点小酒"
+    },
+    {
       "id": "fUq5HylCD",
       "title": "发工资",
       "time": "2023-07-06",
       "type": "1",
       "account": "10000",
       "remark": "劳动一个月终于发窝囊废了~~~"
-    },
-    {
-      "id": "djr_C-aCU",
-      "title": "女朋友过生日",
-      "time": "2022-08-14",
-      "type": "2",
-      "account": "8800",
-      "remark": "送一台iPhone14"
     }
   ]
 }

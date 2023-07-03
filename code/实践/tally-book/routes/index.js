@@ -23,4 +23,11 @@ router.post('/book', function(req, res, next) {
 router.get('/book/add', function(req, res, next) {
   res.render('add')
 });
+
+/* 删除记录 */
+router.get('/book/del/:id', function(req, res, next) {
+  const id = req.params.id
+  db.get('accounts').remove({id: id}).write()
+  res.render('success',{msg: '删除成功', url: '/book'})
+});
 module.exports = router;
